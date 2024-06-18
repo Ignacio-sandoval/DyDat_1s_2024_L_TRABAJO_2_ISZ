@@ -28,7 +28,7 @@ El modelo de datos de la GDB incluye varias clases de entidad y conjuntos de dat
 Para una visualización detallada y de alta calidad de los componentes, consulte el [Modelo de Datos](Modelo%20de%20Datos.pdf) disponible en el repositorio.
 
 ## Manual de Usuario
-Para más detalles sobre el uso de la herramienta, consulte el [Manual de Usuario](ruta/al/manual_de_usuario.pdf).
+Para más detalles sobre el uso de la herramienta, consulte el [Manual de Usuario](Manual%20de%20Usuario.docx).
 
 ## Copyright y Licencia
 Este proyecto está bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para más detalles.

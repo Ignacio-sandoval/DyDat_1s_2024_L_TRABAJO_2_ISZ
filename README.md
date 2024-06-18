@@ -25,7 +25,7 @@ Este índice permite identificar áreas prioritarias para la inversión pública
 El modelo de datos de la GDB incluye varias clases de entidad y conjuntos de datos, organizados para facilitar el análisis espacial y el cálculo del IDC. A continuación, se presenta una previsualización del modelo de datos:
 ## Previsualización del Modelo de Datos
 [![GDB.png](https://i.postimg.cc/PfP0kjyb/GDB.png)](https://postimg.cc/8sgZhxqs)
-Para una visualización detallada y de alta calidad de los componentes, consulte el [modelo de datos en formato PDF](Modelo de Datos.pdf) disponible en el repositorio.
+Para una visualización detallada y de alta calidad de los componentes, consulte el [modelo de datos en formato PDF](Modelo%20de%20Datos.pdf) disponible en el repositorio.
 
 ## Manual de Usuario
 Para más detalles sobre el uso de la herramienta, consulte el [Manual de Usuario](ruta/al/manual_de_usuario.pdf).

@@ -4,38 +4,39 @@
 
 ## Antecedentes Generales
 
-La accesibilidad y desigualdad en la distribución de bienes urbanos es un problema significativo en Puente Alto. A pesar de ser una de las comunas más grandes y pobladas del país, existe una disparidad en la distribución y accesibilidad a servicios básicos como educación, salud y áreas recreativas. Es por eso que se busca abordar estas disparidades a través de la creación de un índice a modo de herramienta que permita focalizar la inversión pública en las áreas más necesitadas.
+<p align="justify">La accesibilidad y desigualdad en la distribución de bienes urbanos es un problema significativo en Puente Alto. A pesar de ser una de las comunas más grandes y pobladas del país, existe una disparidad en la distribución y accesibilidad a servicios básicos como educación, salud y áreas recreativas. Es por eso que se busca abordar estas disparidades a través de la creación de un índice a modo de herramienta que permita focalizar la inversión pública en las áreas más necesitadas.</p>
+
 
 ### Área de Prueba
 
-Para la evaluación y validación de la herramienta desarrollada, se seleccionó la comuna de Puente Alto, situada al sureste de Santiago. Esta comuna es caracterizada por una mezcla de áreas urbanas densamente pobladas y zonas más rurales en su periferia, con una población de aproximadamente 568,106 habitantes (Censo 2017). La cartografía a continuación ilustra la ubicación de la comuna dentro de la Región Metropolitana:
+<p align="justify">Para la evaluación y validación de la herramienta desarrollada, se seleccionó la comuna de Puente Alto, situada al sureste de Santiago. Esta comuna es caracterizada por una mezcla de áreas urbanas densamente pobladas y zonas más rurales en su periferia, con una población de aproximadamente 568,106 habitantes (Censo 2017). La cartografía a continuación ilustra la ubicación de la comuna dentro de la Región Metropolitana:</p>
 
 [![pa.jpg](https://i.postimg.cc/mrxjHxW9/pa.jpg)](https://postimg.cc/75V0FW6P)
 
 
 ## Metodología
-El cálculo del Índice de Déficit Comunal (IDC) se basa en la fórmula que considera el percentil de distancias a bienes urbanos (**$p_d$**) y el percentil de porcentaje de hogares vulnerables (**$p_v$**). La fórmula utilizada es la siguiente:
+<p align="justify">El cálculo del Índice de Déficit Comunal (IDC) se basa en la fórmula que considera el percentil de distancias a bienes urbanos (**$p_d$**) y el percentil de porcentaje de hogares vulnerables (**$p_v$**). La fórmula utilizada es la siguiente:</p>
 
 $$
 NP(p_d, p_v) = \left(\frac{1}{4} + \frac{p_d}{2}\right) \cdot p_d + \left(\frac{3}{4} + \frac{p_d}{2}\right) \cdot p_v
 $$
 
 Donde:
-- **$p_d$** es el percentil de la distancia ponderada a bienes públicos (menor distancia = 1).
-- **$p_v$** es el percentil del porcentaje de hogares vulnerables (menor porcentaje de hogares vulnerables = 1).
+<p align="justify">- **$p_d$** es el percentil de la distancia ponderada a bienes públicos (menor distancia = 1).</p>
+<p align="justify">- **$p_v$** es el percentil del porcentaje de hogares vulnerables (menor porcentaje de hogares vulnerables = 1).</p>
 
-Este índice permite identificar áreas prioritarias para la inversión pública en la comuna.
+<p align="justify">Este índice permite identificar áreas prioritarias para la inversión pública en la comuna.</p>
 
 ## Modelo de Datos
-El modelo de datos de la GDB incluye varias clases de entidad y conjuntos de datos, organizados para facilitar el análisis espacial y el cálculo del IDC. A continuación, se presenta una previsualización del modelo de datos:
+<p align="justify">El modelo de datos de la GDB incluye varias clases de entidad y conjuntos de datos, organizados para facilitar el análisis espacial y el cálculo del IDC. A continuación, se presenta una previsualización del modelo de datos:</p>
 ### Previsualización del Modelo de Datos
 [![GDB.png](https://i.postimg.cc/PfP0kjyb/GDB.png)](https://postimg.cc/8sgZhxqs)
-Para una visualización detallada y de alta calidad de los componentes, consulte el [Modelo de Datos](Modelo%20de%20Datos.pdf).
+<p align="justify">Para una visualización detallada y de alta calidad de los componentes, consulte el [Modelo de Datos](Modelo%20de%20Datos.pdf).</p>
 
 ## Manual de Usuario
-Para más detalles sobre el uso de la herramienta, consulte el [Manual de Usuario](Manual%20de%20Usuario.docx).
+<p align="justify">Para más detalles sobre el uso de la herramienta, consulte el [Manual de Usuario](Manual%20de%20Usuario.docx).</p>
 
 ## Copyright y Licencia
-Este proyecto está bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para más detalles.
+<p align="justify">Este proyecto está bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para más detalles.</p>
 
-© 2024 Ignacio Andrés Sandoval Zapata. Todos los derechos reservados.
+<p align="justify">© 2024 Ignacio Andrés Sandoval Zapata. Todos los derechos reservados.</p>

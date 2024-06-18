@@ -1,5 +1,5 @@
 # Índice de Déficit Comunal respecto a Servicios Urbanos y Hogares Vulnerables
-
+### Descripción
 Este proyecto desarrolla un Índice de Déficit Comunal (IDC) para la comuna de Puente Alto en la Región Metropolitana de Chile. La herramienta tiene como objetivo identificar zonas prioritarias para la inversión pública basándose en la accesibilidad a bienes urbanos y la vulnerabilidad socioeconómica de los hogares, destacando áreas necesitadas para mejorar la calidad de vida de sus residentes.
 
 ## Introducción

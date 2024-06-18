@@ -10,7 +10,7 @@ La accesibilidad y desigualdad en la distribución de bienes urbanos es un probl
 
 Para la evaluación y validación de la herramienta desarrollada, se seleccionó la comuna de Puente Alto, situada al sureste de Santiago. Esta comuna es caracterizada por una mezcla de áreas urbanas densamente pobladas y zonas más rurales en su periferia, con una población de aproximadamente 568,106 habitantes (Censo 2017). La cartografía a continuación ilustra la ubicación de la comuna dentro de la Región Metropolitana:
 
-![Cartografía de Puente Alto](ruta/a/tu/cartografia.png)
+[![pa.jpg](https://i.postimg.cc/mrxjHxW9/pa.jpg)](https://postimg.cc/75V0FW6P)
 
 ## Área de Estudio
 Puente Alto es una comuna situada al sureste de Santiago, caracterizada por una mezcla de áreas urbanas densamente pobladas y zonas más rurales en su periferia. La población es de aproximadamente 568,106 habitantes (Censo 2017).

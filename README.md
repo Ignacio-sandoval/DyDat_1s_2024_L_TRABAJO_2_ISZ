@@ -22,21 +22,20 @@ NP(p_d, p_v) = \left(\frac{1}{4} + \frac{p_d}{2}\right) \cdot p_d + \left(\frac{
 $$
 
 Donde:
-<p align="justify">- **$p_d$** es el percentil de la distancia ponderada a bienes públicos (menor distancia = 1).</p>
-<p align="justify">- **$p_v$** es el percentil del porcentaje de hogares vulnerables (menor porcentaje de hogares vulnerables = 1).</p>
+- **$p_d$** es el percentil de la distancia ponderada a bienes públicos (menor distancia = 1).
+- **$p_v$** es el percentil del porcentaje de hogares vulnerables (menor porcentaje de hogares vulnerables = 1).
 
-<p align="justify">Este índice permite identificar áreas prioritarias para la inversión pública en la comuna.</p>
-
+Este índice permite identificar áreas prioritarias para la inversión pública en la comuna.
 ## Modelo de Datos
 <p align="justify">El modelo de datos de la GDB incluye varias clases de entidad y conjuntos de datos, organizados para facilitar el análisis espacial y el cálculo del IDC. A continuación, se presenta una previsualización del modelo de datos:</p>
 ### Previsualización del Modelo de Datos
 [![GDB.png](https://i.postimg.cc/PfP0kjyb/GDB.png)](https://postimg.cc/8sgZhxqs)
-<p align="justify">Para una visualización detallada y de alta calidad de los componentes, consulte el [Modelo de Datos](Modelo%20de%20Datos.pdf).</p>
+Para una visualización detallada y de alta calidad de los componentes, consulte el [Modelo de Datos](Modelo%20de%20Datos.pdf).
 
 ## Manual de Usuario
-<p align="justify">Para más detalles sobre el uso de la herramienta, consulte el [Manual de Usuario](Manual%20de%20Usuario.docx).</p>
+Para más detalles sobre el uso de la herramienta, consulte el [Manual de Usuario](Manual%20de%20Usuario.docx).
 
 ## Copyright y Licencia
-<p align="justify">Este proyecto está bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para más detalles.</p>
+Este proyecto está bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para más detalles.
 
-<p align="justify">© 2024 Ignacio Andrés Sandoval Zapata. Todos los derechos reservados.</p>
+© 2024 Ignacio Andrés Sandoval Zapata. Todos los derechos reservados.

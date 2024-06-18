@@ -1,6 +1,6 @@
 # Índice de Déficit Comunal respecto a Servicios Urbanos y Hogares Vulnerables
 ## Descripción
-El proyecto tiene como objetivo desarrollar un Índice de Déficit Comunal (IDC). Este índice tiene como finalidad mejorar la calidad de vida de los residentes en áreas más vulnerables, identificando zonas dentro de una comuna que requieran una alta prioridad de inversión pública. La evaluación se basa en el cruce de información sobre la accesibilidad a bienes urbanos y la condición socioeconómica de los hogares.
+<p align="justify">El proyecto tiene como objetivo desarrollar un Índice de Déficit Comunal (IDC). Este índice tiene como finalidad mejorar la calidad de vida de los residentes en áreas más vulnerables, identificando zonas dentro de una comuna que requieran una alta prioridad de inversión pública. La evaluación se basa en el cruce de información sobre la accesibilidad a bienes urbanos y la condición socioeconómica de los hogares.</p>
 
 ## Antecedentes Generales
 

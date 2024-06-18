@@ -21,8 +21,8 @@ NP(p_d, p_v) = \left(\frac{1}{4} + \frac{p_d}{2}\right) \cdot p_d + \left(\frac{
 $$
 
 Donde:
-- **\(p_d\)** es el percentil de la distancia ponderada a bienes públicos (menor distancia = 1).
-- **\(p_v\)** es el percentil del porcentaje de hogares vulnerables (menor porcentaje de hogares vulnerables = 1).
+- **$p_d$** es el percentil de la distancia ponderada a bienes públicos (menor distancia = 1).
+- **$p_v$** es el percentil del porcentaje de hogares vulnerables (menor porcentaje de hogares vulnerables = 1).
 
 Este índice permite identificar áreas prioritarias para la inversión pública en la comuna.
 

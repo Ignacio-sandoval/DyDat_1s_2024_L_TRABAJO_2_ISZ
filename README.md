@@ -26,3 +26,10 @@ El modelo de datos de la GDB incluye varias clases de entidad y conjuntos de dat
 ## Visualización del Modelo de Datos
 ![Modelo de Datos](C:\Users\\Ignacio\\Desktop\\manual de usuario\\Modelodatos.jpg)
 
+## Manual de Usuario
+Para más detalles sobre el uso de la herramienta, consulte el [Manual de Usuario](ruta/al/manual_de_usuario.pdf).
+
+## Copyright y Licencia
+Este proyecto está bajo la licencia XYZ. Consulte el archivo LICENSE para más detalles.
+
+© 2024 Ignacio Andrés Sandoval Zapata. Todos los derechos reservados.

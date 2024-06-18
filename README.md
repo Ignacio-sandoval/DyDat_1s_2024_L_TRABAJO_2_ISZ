@@ -2,13 +2,13 @@
 ## Descripción
 El proyecto tiene como objetivo desarrollar un Índice de Déficit Comunal (IDC). Este índice tiene como finalidad mejorar la calidad de vida de los residentes en áreas más vulnerables, identificando zonas dentro de una comuna que requieran una alta prioridad de inversión pública. La evaluación se basa en el cruce de información sobre la accesibilidad a bienes urbanos y la condición socioeconómica de los hogares.
 
-## Introducción y Contexto
+## Antecedentes Generales
 
-La accesibilidad y desigualdad en la distribución de bienes urbanos es un problema significativo en Puente Alto. A pesar de ser una de las comunas más grandes y pobladas del país, existe una disparidad en la distribución y accesibilidad a servicios básicos como educación, salud y áreas recreativas. Es por eso que se busca abordar estas disparidades a través de la creación de un índice a modo de herramienta que permita focalizar la inversión pública en las áreas más necesitadas. Este índice se basa en la combinación de información sobre la accesibilidad a bienes urbanos y la condición socioeconómica de los hogares, resaltando las áreas más vulnerables y con mayores necesidades.
+La accesibilidad y desigualdad en la distribución de bienes urbanos es un problema significativo en Puente Alto. A pesar de ser una de las comunas más grandes y pobladas del país, existe una disparidad en la distribución y accesibilidad a servicios básicos como educación, salud y áreas recreativas. Es por eso que se busca abordar estas disparidades a través de la creación de un índice a modo de herramienta que permita focalizar la inversión pública en las áreas más necesitadas.
 
 ## Área de Prueba
 
-Para la evaluación y validación de la herramienta desarrollada, se seleccionó la comuna de Puente Alto, situada al sureste de Santiago. Esta comuna es caracterizada por una mezcla de áreas urbanas densamente pobladas y zonas más rurales en su periferia, con una población de aproximadamente 568,106 habitantes (Censo 2017). La cartografía a continuación ilustra la ubicación de la comuna en la Región Metropolitana:
+Para la evaluación y validación de la herramienta desarrollada, se seleccionó la comuna de Puente Alto, situada al sureste de Santiago. Esta comuna es caracterizada por una mezcla de áreas urbanas densamente pobladas y zonas más rurales en su periferia, con una población de aproximadamente 568,106 habitantes (Censo 2017). La cartografía a continuación ilustra la ubicación de la comuna dentro de la Región Metropolitana:
 
 ![Cartografía de Puente Alto](ruta/a/tu/cartografia.png)
 

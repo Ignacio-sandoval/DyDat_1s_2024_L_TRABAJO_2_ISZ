@@ -40,6 +40,15 @@ A continuación, se presenta un video tutorial que muestra cómo ejecutar correc
 
 [![Video Tutorial](https://img.youtube.com/vi/TU_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=wu4AWYR_E4o)
 
+
+
+
+
+
+
+
+
+
 ## Manual de Usuario
 Para más detalles sobre el uso de la herramienta, consulte el [Manual de Usuario](Manual%20de%20Usuario.pdf).
 

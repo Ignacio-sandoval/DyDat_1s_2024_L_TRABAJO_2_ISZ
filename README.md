@@ -40,7 +40,7 @@ Para una visualización detallada y de alta calidad de los componentes, consulte
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=wu4AWYR_E4o">
-    <img src="https://img.youtube.com/vi/wu4AWYR_E4o/hqdefault.jpg" alt="Video Tutorial" style="border: none;">
+    <img src="https://img.youtube.com/vi/wu4AWYR_E4o/maxresdefault.jpg" alt="Video Tutorial" style="border: none;">
   </a>
 </div>
 

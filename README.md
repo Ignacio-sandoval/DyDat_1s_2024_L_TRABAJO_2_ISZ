@@ -34,6 +34,12 @@ El modelo de datos de la GDB incluye varias clases de entidad y conjuntos de dat
 [![GDB.png](https://i.postimg.cc/PfP0kjyb/GDB.png)](https://postimg.cc/8sgZhxqs)
 Para una visualización detallada y de alta calidad de los componentes, consulte el [Modelo de Datos](Modelo%20de%20Datos.pdf).
 
+## Video Tutorial
+
+A continuación, se presenta un video tutorial que muestra cómo ejecutar correctamente las secuencias de comandos de la herramienta desarrollada:
+
+[![Video Tutorial](https://img.youtube.com/vi/TU_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=TU_VIDEO_ID)
+
 ## Manual de Usuario
 Para más detalles sobre el uso de la herramienta, consulte el [Manual de Usuario](Manual%20de%20Usuario.pdf).
 

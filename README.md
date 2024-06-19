@@ -36,7 +36,7 @@ Para una visualización detallada y de alta calidad de los componentes, consulte
 
 ## Video Tutorial
 
-<p align="justify">A continuación, se presenta un video tutorial que muestra cómo utilizar la herramienta desarrollada:</p>
+<p align="justify">A continuación, se presenta un video tutorial que muestra cómo ejecutar secuencialmente de manera correcta la herramienta desarrollada:</p>
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=wu4AWYR_E4o">

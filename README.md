@@ -15,7 +15,7 @@
 
 
 ## Metodología
-<p align="justify">El cálculo del Índice de Déficit Comunal (IDC) se basa en la fórmula que considera el percentil de distancias a bienes urbanos (**$$p_d$$**) y el percentil de porcentaje de hogares vulnerables (**$$p_d$$**). La fórmula utilizada es la siguiente:</p>
+El cálculo del Índice de Déficit Comunal (IDC) se basa en la fórmula que considera el percentil de distancias a bienes urbanos (**$$p_d$$**) y el percentil de porcentaje de hogares vulnerables (**$$p_d$$**). La fórmula utilizada es la siguiente:
 
 $$
 NP(p_d, p_v) = \left(\frac{1}{4} + \frac{p_d}{2}\right) \cdot p_d + \left(\frac{3}{4} + \frac{p_d}{2}\right) \cdot p_v

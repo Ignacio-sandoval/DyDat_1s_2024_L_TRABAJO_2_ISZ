@@ -38,7 +38,7 @@ Para una visualización detallada y de alta calidad de los componentes, consulte
 
 A continuación, se presenta un video tutorial que muestra cómo ejecutar correctamente las secuencias de comandos de la herramienta desarrollada:
 
-[![Video Tutorial](https://img.youtube.com/vi/TU_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=wu4AWYR_E4o)
+[![](https://markdown-videos.deta.dev/youtube/wu4AWYR_E4o)]([link](https://www.youtube.com/watch?v=wu4AWYR_E4o)
 
 
 

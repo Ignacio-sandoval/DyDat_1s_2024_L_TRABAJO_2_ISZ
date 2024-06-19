@@ -36,9 +36,13 @@ Para una visualización detallada y de alta calidad de los componentes, consulte
 
 ## Video Tutorial
 
-A continuación, se presenta un video tutorial que muestra cómo ejecutar correctamente las secuencias de comandos de la herramienta desarrollada:
+<p align="justify">A continuación, se presenta un video tutorial que muestra cómo utilizar la herramienta desarrollada:</p>
 
-[![Video Tutorial](https://img.youtube.com/vi/wu4AWYR_E4o/hqdefault.jpg)](https://www.youtube.com/watch?v=wu4AWYR_E4o)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=wu4AWYR_E4o">
+    <img src="https://img.youtube.com/vi/wu4AWYR_E4o/hqdefault.jpg" alt="Video Tutorial" style="border: none;">
+  </a>
+</div>
 
 ## Manual de Usuario
 Para más detalles sobre el uso de la herramienta, consulte el [Manual de Usuario](Manual%20de%20Usuario.pdf).
